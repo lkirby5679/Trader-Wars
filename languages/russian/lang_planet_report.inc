@@ -1,0 +1,39 @@
+<?php
+$l_pr_title              = "Отчет о планетах";
+$l_pr_teamlink           = "Показать командные планеты";
+$l_pr_noplanet           = "У вас нет планет";
+$l_pr_clicktosort        = "Для сортировки колонки кликните на шапку.";
+$l_pr_totals             = "Итого";
+$l_pr_menulink           = "Главное меню отчёта";
+$l_pr_menu               = "Меню";
+$l_pr_status             = "Статус";
+$l_pr_production         = "Производство";
+$l_pr_planetstatus       = "Статус планеты";
+$l_pr_changeprods        = "План производства";
+$l_pr_baserequired       = "На планете должна быть <B>БАЗА</B>";
+$l_pr_comm_disp          = "Показать продуктовые запасы планеты.";
+$l_pr_prod_disp          = "В отчёте вы можете изменить производственный план планет с базой<BR>-- Для изменения названия планеты, присвоения ей командного статуса и постройки базы необходимо ваше присутствие на ней";
+$l_pr_team_disp          = "Отчёт о продуктовых запасах (типа статуса планеты) для командных планет, крышуемых вами или вашими братками по бригаде";
+$l_pr_warning            = "<B>Внимание:</B> Команды 'Построить' потребуют перемещений порабля.";
+$l_pr_takecreds          = "Забрать<BR>Креды";
+$l_pr_collectcreds       = "Собрать креды";
+$l_pr_build              = "Построить";
+$l_pr_notenoughturns     = "НЕ ХВАТАЕТ ХОДОВ ДЛЯ СБОРА КРЕДОВ";
+$l_pr_ppupdated          = "Производственный план утверждён";
+$l_pr_prexeedcheck       = "Проверка значений на превышение 100% и отрицательные значения";
+$l_pr_prexeeds           = "Planet [name] in sector [sector_id] would exceed 100% production. Production values unchanged.";
+$l_pr_credstaken         = "Забрать [CreditsTaken] кредов с планеты [name].";
+$l_pr_credsonboard       = "На борту вашего корабля <B>[name]</B> теперь [NewShipCredits] кредов.";
+$l_pr_notturns           = "Для сбора средств с планеты [name] в секторе [sector_id] недостаточно ходов.";
+$l_pr_hostile            = "ВЫ НЕ МОЖЕТЕ ПЕРЕЙТИ В СЕКТОР [destination] СКОЗЬ ЗАЩИТУ";
+$l_pr_pdefense            = "Planetary Defenses";
+$l_pr_sector            = "Sector";
+$l_pr_display            = "Display the defense levels of your planets.";
+$l_pr_showd            = "Show the Defense Levels of all planets on your team.";
+$l_pr_showtd            = "Show Team Defenses";
+$l_pr_selectall            = "Select All";
+
+$l_pr_build            = "Build";
+$l_pr_research            = "Research";
+$l_pr_special            = "Special";
+?>

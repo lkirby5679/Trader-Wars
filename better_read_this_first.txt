@@ -1,0 +1,50 @@
+This version of Alien Assault Traders contains many 
+new features like modularized Probes, dignitaries,
+spies, artifacts and more where you can 
+add any new item by dropping in a new module.
+
+Make sure you have your database created and the 
+name of the database, database user name and 
+database password ready before you start to install
+this package.  That information is required when
+installing.
+
+DO NOT INSTALL OVER AN OLD GAME! 
+
+This is completely different code. If you are
+wanting to use the same database and directory from
+a 0.2x/0.3x game you should delete all of the old
+0.2x/0.3x code and every 0.2x/0.3x table in the 
+database before installing 0.40. 
+
+These are completely two different beasts. You may
+cause all kinds of weirdness if you try to install
+0.40 over an old 0.2x/0.3x or older version of the
+game.
+
+We are using a special install package that should
+prevent all of the permission issues of earlier
+versions.
+
+1. Create the directory where you want the game
+   installed on your server.
+
+2. Unpack the aatrade_0.40_release.zip.
+
+3. You will find 8 files including this readme.
+   Upload the install_aatrade_package.php and 
+   all six aatrade_package files to the game 
+   directory.
+
+4. Once the files are uploaded you should run the
+   install_aatrade_package.php program.  
+   IE: http://www.yourserver.com/install_aatrade_package.php
+
+Everything from this point on is pretty self explanitory.
+
+The aatrade_package files are actually tar archives
+without the .tar extension.  You can add this extension
+and unpack each archive with your favorite unzip/untar
+program.  I wouldn't recommend uploading an unzipped
+archive to your server.  You should ALWAYS use the package
+installer as it will avoid a myriad of permission issues.

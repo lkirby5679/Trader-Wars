@@ -1,0 +1,39 @@
+<?php
+$l_pr_title              = "Planeedi raport";
+$l_pr_teamlink           = "N&auml;ita liidu planeete";
+$l_pr_noplanet           = "Sul ei ole planeete";
+$l_pr_clicktosort        = "Kliki tulba pealkirjal, et sortida.";
+$l_pr_totals             = "Kokku";
+$l_pr_menulink           = "Planeetide &uuml;ldmen&uuml;&uuml";
+$l_pr_menu               = "Men&uuml;&uuml;";
+$l_pr_status             = "Staatus";
+$l_pr_production         = "Tootlus";
+$l_pr_planetstatus       = "Planeetide staatus";
+$l_pr_changeprods        = "Muuda tootlust";
+$l_pr_baserequired       = "Planeedil <B>peab olema baas</B>";
+$l_pr_comm_disp          = "N&auml;itab planeetidel oleva relvastuse, kauba ning kolonistide hulka.";
+$l_pr_prod_disp          = "V&otilde;imaldab muuta tootlusprotsente baasiga planeetidel.<BR>-- Sa peab lendama planeedi juurde, et ehitada baas, muuta planeet liiduplaneediks v&otilde;i muuta planeedi nime (p&uuml;hitsemine jne)";
+$l_pr_team_disp          = "Raport (nagu Planeetide staatus) Sinu ja Su liidukaaslaste liiduplaneetide jaoks";
+$l_pr_warning            = "<B>HOIATUS:</B> 'Ehita' eeldavad avakosmoses lendamist.";
+$l_pr_takecreds          = "V&otilde;ta<BR>raha";
+$l_pr_collectcreds       = "Kogu kokku";
+$l_pr_build              = "Ehita";
+$l_pr_notenoughturns     = "SUL EI OLE PIISAVALT K&Auml;IKE, ET RAHA KOKKU KOGUDA!";
+$l_pr_ppupdated          = "Tootlusprotsendid uuendatud.";
+$l_pr_prexeedcheck       = "Kontrollin tootlusprotsentide korrektsust";
+$l_pr_prexeeds           = "Planet [name] in sector [sector_id] would exceed 100% production. Production values unchanged.";
+$l_pr_credstaken         = "V&otilde;tan [CreditsTaken] raha planeedilt [name].";
+$l_pr_credsonboard       = "Su laeval <B>[name]</B> on n&uuml;&uuml;d [NewShipCredits] raha.";
+$l_pr_notturns           = "Sul ei ole piisavalt k&auml;ike, et v&otilde;tta raha planeedilt [name] sektoris [sector_id]";
+$l_pr_hostile            = "EI SAA MINNA SEKTORISSE [destination], SEAL ON VAENULIKUD V&Auml;ED!";
+$l_pr_pdefense            = "Planetary Defenses";
+$l_pr_sector            = "Sector";
+$l_pr_display            = "Display the defense levels of your planets.";
+$l_pr_showd            = "Show the Defense Levels of all planets on your team.";
+$l_pr_showtd            = "Show Team Defenses";
+$l_pr_selectall            = "Select All";
+
+$l_pr_build            = "Build";
+$l_pr_research            = "Research";
+$l_pr_special            = "Special";
+?>

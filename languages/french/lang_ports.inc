@@ -1,0 +1,76 @@
+<?php
+// port.php port_purchase.php
+$l_trade		 = "Acheter/Vendre";
+$l_title_port		 = "Port Commercial";
+$l_title_trade		 = "Commerce de biens";
+$l_sector_war		 = "Embargo de guerre";
+$l_war_info		 = "La guerre fait rage dans ce secteur. Vous ne pouvez atteindre le port à travers les forces hostiles.";
+$l_no_trade		 = "Commerce interdit";
+$l_no_trade_out		 = "Le commerce à ce port n'est pas permis pour les étrangers";
+$l_no_trade_info	 = "Le commerce à ce port est interdit.";
+$l_buying		 = "Achète";
+$l_selling		 = "Vends";
+$l_commodity		 = "Commodité";
+$l_amount		 = "Quantité";
+$l_price		 = "Prix";
+$l_buy			 = "Acheter";
+$l_sell			 = "Vendre";
+$l_trade_st_info	 = "Vous avez [free_holds] unités d'espace libre, pouvez transporter [free_power] unités d'énergie additionnelles et vous disposez de [credits] crédits.";
+$l_upgrade_port_title    = "Upgrade Port";
+$l_device_port_title     = "Device Port";
+$l_no_credits		 = "Pas assez de crédits";
+$l_creds_to_spend	 = "Vous avez [credits] crédits à dépenser.";
+$l_cost			 = "Coût";
+$l_avail		 = "Disponible";
+$l_profit		 = "Profit";
+$l_current		 = "Présent";
+$l_current_level         = "Current Level";
+$l_current_qty		 = "Quantités présentes";
+$l_max			 = "Max";
+$l_ifyouneedmore	 = "Si vous avez besoin de plus de crédits vous pouvez accéder au [igb] ";
+$l_ifyouneedplan	 = "Accéder au ";
+$l_igb_term		 = "Terminal Bancaire IGB";
+$l_upgrade		 = "Améliorer";
+$l_unlimited		 = "Illimité";
+$l_full			 = "Plein";
+$l_equipped		 = "Équippé";
+$l_n_a			 = "N/D";
+$l_item			 = "Item";
+$l_totalcost		 = "Coût Total";
+$l_would_dump	         = "Si vous aimeriez laisser tous les colons que vous transportez ici, cliquez ";
+$l_noport		 = "Il n'y a aucun port ici!";
+$l_trade_turnneed	 = "Vous avez besoin d'au moins un tour pour faire du commerce à un port ou planète.";
+$l_returnto_port1        = "ici";
+$l_returnto_port2        = " Cliquez [port_link] pour retourner au menu du port.";
+$l_notenough_cargo	 = "Vous n'avez pas assez d'espace pour stocker les commodités que vous voulez acheter.";
+$l_notenough_power	 = "Vous ne disposez pas d'assez de puissance pour stocker l'énergie que vous voulez acheter.";
+$l_notenough_credits	 = "Vous n'avez pas suffisament de crédits pour conclure cette transaction.";
+$l_notenough_turns	 = "Vous n'avez pas suffisament de tours pour conclure cette transaction.";
+$l_trade_result		 = "Résultats pour cette transaction:";
+$l_trade_complete	 = "Transaction complète";
+$l_trade_upgraded = "Amélioré";
+$l_trade_added = "ajoutés";
+$l_trade_installed = "installé";
+$l_port_bounty 		 = "Vous ne pouvez pas accéder a un port spécial lorsque vous avez une mise à prix de la Fédération.<BR>";
+$l_port_bounty2 	 = "Cliquez <a href=\"port.php?pay=1\">ici</a> pour payer la mise à prix de [amount] credits.";
+$l_port_btynotenough 	 = "Vous n'avez pas asser de crédits pour payer la mise à prix de [amount] credits.<BR>";
+$l_port_bountypaid 	 = "Vous avez payer la mise à prix. cliquez <a href=\"port.php\">ici</a> pour continuer.<BR>";
+$l_port_loannotrade 	 = "IGB a constater un retard de remboursement de votre emprun. Vous ne pouvez plus commercer avec un port spécial tant que vous n'avez pas rembourser votre emprun.";
+$l_port_returntospecial = "to return to the supply depot.";
+$l_ports_shiplimit = "Minimum Ship class to mount device: ";
+$l_ports_needrepair = "Repair";
+$l_spacedock_port_title	 = "Spacedock";
+
+$l_ports_needcredits = "You do not have enough credits for this transaction.	The total cost is";
+$l_ports_needcredits1 = "credits and you only have";
+
+$l_ports_tradeforbidden = "Trade forbidden";
+$l_ports_nooutsiders = "Trading at this port is not allowed for outsiders.";
+$l_toprobemenu = "to go to the probe menu.";
+
+$l_bought		 = "You bought";
+$l_sold		 = "You sold";
+$l_notenough_commodity	 = "You do not have enough [commodity] to complete the transaction.";
+$l_exceed_commodity	 = "Number of [commodity] exceeds the supply/demand.  ";
+$l_port_shiptoolarge = "Your ship is too large to trade at this port.";
+?>
